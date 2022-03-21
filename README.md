@@ -10,7 +10,7 @@ In order to allow users to perform a search for the specific criteria, list elem
 
 Before a search is done, the table to the right shows all existing data, as this table has not yet been filtered to any criteria yet.
 
-![Before Applying Filter](/resources/Before_Applying_filter.png)
+![Before Applying Filter](/resources/Before_Applying_Filter.png)
 
 Once some criteria have been entered however, the table of data to the right changes accordingly to deliver the results that the user requested through the search. Below Image show a search criteria for the specific city:
 
